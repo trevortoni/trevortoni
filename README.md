@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Flutter projects
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Flutter and Java
 - 👯 I’m looking to collaborate on Python projecs
 - 🤔 I’m looking for help with Mobile application development
 - 💬 Ask me about Tech

@@ -9,6 +9,11 @@
 - 📫 How to reach me: toni.kiwoi@gmail.com
 - ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.
 
+- - <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api? 
+   username=kugelschreiber1" />
+</a>
+
 - <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api? 
    username=kugelschreiber1&show_icons=true&theme=onedark&hide_progress=true" />

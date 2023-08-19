@@ -9,14 +9,11 @@
 - 📫 How to reach me: toni.kiwoi@gmail.com
 - ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.
 
-- [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true&theme=onedark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- [![Trevor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?  
   username=kugelschreiber1&show_icons=true&theme=onedark&hide_progress=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs? 
+  username=kugelschreiber1&layout=donut-vertical&langs_count=8&card_width=320" />
 </a>

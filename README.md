@@ -32,6 +32,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
-   username=kugelschreiber1&layout=compact&langs_count=8&card_width=320"  />
+   username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
 </picture>
 </div>

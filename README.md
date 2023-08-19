@@ -10,3 +10,5 @@
 - ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.
 
 - [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true&theme=onedark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- [![Trevor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)

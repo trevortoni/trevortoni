@@ -10,7 +10,7 @@
 - ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.
   
 <div>
-<picture align="left" width=45%>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -19,10 +19,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true" />
 </picture>
 
-<picture align="right" width=50%>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -31,7 +31,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs? 
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
    username=kugelschreiber1&layout=compact&langs_count=8&card_width=320"  />
 </picture>
 </div>

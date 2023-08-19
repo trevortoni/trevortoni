@@ -7,7 +7,9 @@
 - 🤔 I’m looking for help with Mobile application development
 - 💬 Ask me about Tech
 - 📫 How to reach me: toni.kiwoi@gmail.com
-- ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.
+- ⚡ Fun fact: In the course of an average lifetime, while sleeping you might eat around 70 assorted insects and 10 spiders, or more.\
+
+![Profile Visits](https://komarev.com/ghpvc/?username=kugelschreiber1)
   
 <div>
 <picture>

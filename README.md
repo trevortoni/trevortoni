@@ -65,8 +65,18 @@
 ## GitHub Stats
 <div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kugelschreiber1&theme=dark"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&theme=dark"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
+     username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
+  </picture>
 </div>
 
 

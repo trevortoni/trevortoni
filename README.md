@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter projecs
 - 📫 How to reach me: toni.kiwoi@gmail.com
   
-## Skill Set
+## Languages & Tools ⚒️
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">

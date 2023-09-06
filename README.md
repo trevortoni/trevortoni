@@ -7,6 +7,9 @@
 - 💬 Ask me about Technology
 - 📫 How to reach me: toni.kiwoi@gmail.com
 
+<hr>
+##Skill Set
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <hr>  
 <div>
 <picture>

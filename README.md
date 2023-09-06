@@ -36,8 +36,9 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
+<hr>
+
 <div>
-  <hr>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true&theme=dark"
@@ -63,8 +64,14 @@
   </picture>
 </div>
 
-
-<div style="display:flex; flex-direction:row;">
+## Streak Stats
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
+</div>
+
+## Trophy Stats
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=dark"/>
 </div>
+
+

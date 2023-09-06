@@ -10,7 +10,7 @@
 ## Skill Set
 <hr>
 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -64,6 +64,9 @@
   </picture>
 </div>
 
+<hr>
+<hr>
+
 ## Streak Stats
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
@@ -73,5 +76,3 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=dark"/>
 </div>
-
-

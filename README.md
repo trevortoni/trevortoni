@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
+
 <hr>  
+
 <div>
   <picture>
     <source
@@ -60,10 +62,10 @@
      username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
   </picture>
 </div>
-<hr>
+
+<hr><hr>
+
 <div>
-  <hr>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
-  <hr>
   <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1"/>
 </div>

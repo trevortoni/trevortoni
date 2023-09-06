@@ -63,9 +63,7 @@
   </picture>
 </div>
 
-<hr><hr>
-
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=dark"/>
 </div>

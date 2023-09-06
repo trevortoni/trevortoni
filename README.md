@@ -68,10 +68,6 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-<!--     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    /> -->
     <img height=200 width=auto align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
      username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
   </picture>

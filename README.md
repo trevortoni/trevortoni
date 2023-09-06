@@ -9,6 +9,7 @@
   
 ## Skill Set
 <hr>
+
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -62,6 +63,8 @@
      username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
   </picture>
 </div>
+
+<hr>
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>

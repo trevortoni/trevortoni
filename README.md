@@ -8,7 +8,6 @@
 - 📫 How to reach me: toni.kiwoi@gmail.com
   
 ## Skill Set
-<hr>
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -36,9 +35,8 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
-<hr>
 
-<div>
+<!-- <div style="display:flex; flex-direction:column gap:30;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kugelschreiber1&show_icons=true&theme=dark"
@@ -62,17 +60,22 @@
     <img height=200 width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
      username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
   </picture>
+</div> -->
+
+## GitHub Stats
+<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kugelschreiber1&theme=dark"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&theme=dark"/>
 </div>
 
-<hr>
-<hr>
 
 ## Streak Stats
-<div>
+<div style="display:flex; justify-content:center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
 </div>
 
 ## Trophy Stats
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=dark"/>
+<div  style="display:flex; justify-content:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=onedark"/>
 </div>

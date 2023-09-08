@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
@@ -62,13 +63,13 @@
 
 ## GitHub Stats
 <div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
-  <img height=200 width=45% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kugelschreiber1&theme=dark"/>
+  <img height=200 width=46% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kugelschreiber1&theme=dark"/>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img height=200 width=45% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
+    <img height=200 width=46% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
      username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
   </picture>
 </div>

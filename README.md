@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Flutter projects
-- 🌱 I’m currently learning Java/Kotlin
-- 👯 I’m looking to collaborate on Flutter projecs
+- I am a web and software developer.
+- Wanna reach out ? Then reach me through the email below.
 - 📫 How to reach me: toni.kiwoi@gmail.com
   
 ## Languages & Tools ⚒️

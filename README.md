@@ -62,24 +62,24 @@
 
 ## GitHub Stats
 <div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
-  <img height=200 width=46% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kugelschreiber1&theme=dark"/>
+  <img height=200 width=46% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trevortoni&theme=dark"/>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kugelschreiber1&layout=compact&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trevortoni&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <img height=200 width=46% align="right" src="https://github-readme-stats.vercel.app/api/top-langs? 
-     username=kugelschreiber1&layout=compact&langs_count=10&card_width=320"  />
+     username=trevortoni&layout=compact&langs_count=10&card_width=320"  />
   </picture>
 </div>
 
 
 ## Streak Stats
 <div style="display:flex; justify-content:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugelschreiber1&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trevortoni&theme=dark"/>
 </div>
 
 ## Trophy Stats
 <div  style="display:flex; justify-content:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=kugelschreiber1&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=trevortoni&theme=onedark"/>
 </div>
